@@ -1,0 +1,3 @@
+/home/mahdigheidi/CLionProjects/Phase2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mahdigheidi/CLionProjects/Phase2/cmake-build-debug/CMakeFiles/Phase2.dir
+/home/mahdigheidi/CLionProjects/Phase2/cmake-build-debug/CMakeFiles/edit_cache.dir
